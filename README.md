@@ -20,3 +20,16 @@ All experiments are run using RapidFire AI’s hyperparallel evaluation API.
 ## Notes
 This project focuses on retrieval quality (Recall@K, MRR) per RAG Track guidelines.
 
+---
+
+## ⚠️ Submission Note
+
+This submission was completed under significant time pressure near the competition deadline. While the experiment ran successfully and produced valid results, some documentation aspects are incomplete:
+
+- Full analysis of all configurations is in progress
+- Additional screenshots and detailed metrics visualization pending
+- Complete knob extraction and justification to be added post-submission
+
+The core experiment, results CSV, and key findings are included. I plan to update this repository with complete documentation after the deadline if permitted.
+
+---
